@@ -1,0 +1,55 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "ZansLord",
+  "LANGUAGE": "Indonesia",
+  "LANGCODE": "in",
+  "STRINGS": {
+      "updater": {
+          "UPDATE": "*Bot Lu dah di versi terbaru Gan*",
+          "NEW_UPDATE": "*Ada pembaruan baru yang tersedia untuk bot!*\n\n*Perubahan:*\n",
+          "UPDATED_LOCAL": "*Berhasil Update!*"
+      },
+      "global": {
+          "botName": " Powered by Elaina",
+          "body": "𝑬𝒍𝒂𝒊𝒏𝒂 𝐶𝒉𝑎𝑛",
+          "greet2" : "Gan",
+          "pic1": "https://telegra.ph/file/903d8ef42bdbcd3ae0130.jpg",
+          "pic2": "https://telegra.ph/file/8468b478240c71f00904e.png",
+          "pic3": "https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg",
+          "pic4": "https://telegra.ph/file/eba8e084ebf8751779fe0.png",
+          "pic5": "https://telegra.ph/file/24ca1676c94d863799d5c.jpg",
+          "pic6": "https://telegra.ph/file/e1bac924a03ea3aad4c69.jpg",
+          "pic7": "https://telegra.ph/file/ba52ff4b95087d485c4ec.png",
+           "greet" : "Gan",
+         "dotbody" : "Aku Hidup.",
+          "promote": "Pangkat Admin Diberikan kepada Sayangku",
+          "pmallow": "*Hii,Ini Aku Elaina*\n*Seorang asisten Tuanku.*\n Tuanku sedang sibuk sekarang.\n Mohon Tinggalkan Pesan Anda.\n\n_Saya akan memberi tahu dia tentang pesan Mu secepatnya......_",
+          "pmblock": "❌ Blocked*\n\n Kamu Telah Di Blokir Karena Spam.\n\n _ Powered by Elaina_",
+          "pmwarn": "✋Hii* \nTolong jangan spam lagi saya akan memblokir Anda untuk spamming. _You have ${checkPermit.times} warning(s)._\n\n *Powered by Elaina*",
+          "permited": "Hii ${tname} Gan*\n\n Sekarang Anda diizinkan oleh pemilik saya untuk pm sekarang.\n\n *Powered by Elaina", 
+          "revoked" : "*Hii ${tname} Gan*\n\n izin pm Anda telah dicabut sekarang.\n\n _Powered by Elaina_",
+          "demote": "Uhh,Peran Admin Diambil kembali",
+          "antlink": "Link Detected.\n*Good Bye Bro*",
+          "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Elaina*",
+          "mention": " Please mention any user Sir",
+          "title": "Elaina",
+          "footer": "Elaina",
+          "by": "Made by: *ZansLord*",
+          "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+          "success": "Done ✓",
+          "dot": "Did you mean *help?*",
+          "couple_male": "*I dont want to die alone,I want a female yaar*",
+          "couple_female": "*I dont want to die alone,I want a male yaar*",
+          "admin": "𝑇ℎ𝑖𝑠 𝑐𝑜𝑚𝑚𝑎𝑛𝑑 𝑖𝑠 𝑜𝑛𝑙𝑦 𝑓𝑜𝑟 𝑔𝑟𝑜𝑢𝑝 𝐴𝑑𝑚𝑖𝑛⚠️!",
+          "botAdmin": "𝑃𝑙𝑒𝑎𝑠𝑒 𝑃𝑟𝑜𝑣𝑖𝑑𝑒 𝑚𝑒 𝐴𝑑𝑚𝑖𝑛 𝑅𝑜𝑙𝑒 𝑆𝑖𝑟.❗",
+          "owner": "𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+          "group": "𝑻𝒉𝒊𝒔 𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝑶𝒏𝒍𝒚 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑𝒔❗",
+          "private": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+          "bot": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓⚠️",
+          "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅" 
+      },
+      "error": {
+          "text": "*Uhh,Got an Error*"
+      }
+  }
+}

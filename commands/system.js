@@ -31,7 +31,7 @@ cmd({
             pattern: "qr",
             category: "owner",
             filename: __filename,
-            desc: "Sends CitelsVoid Qr code to scan and get your session id."
+            desc: "Sends Elaina Qr code to scan and get your session id."
         },
         async(Void, citel, text) => {
             if (text) {
@@ -256,7 +256,7 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by SamPandey001.*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by ZansLord.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
 _This is  ${tlang().title}._
